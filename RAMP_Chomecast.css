@@ -1,0 +1,28 @@
+.background {
+background: rgba(36,40,103,1);
+background: -moz-linear-gradient(top, rgba(36,40,103,1) 0%, rgba(106,35,128,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(36,40,103,1)), color-stop(100%, rgba(106,35,128,1)));
+background: -webkit-linear-gradient(top, rgba(36,40,103,1) 0%, rgba(106,35,128,1) 100%);
+background: -o-linear-gradient(top, rgba(36,40,103,1) 0%, rgba(106,35,128,1) 100%);
+background: -ms-linear-gradient(top, rgba(36,40,103,1) 0%, rgba(106,35,128,1) 100%);
+background: linear-gradient(to bottom, rgba(36,40,103,1) 0%, rgba(106,35,128,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242867', endColorstr='#6a2380', GradientType=0 );
+}
+
+.logo {
+  background-image: url(logo.png);
+}
+
+.progressBar {
+  background-color: rgb(230, 16, 117);
+}
+
+.splash {
+  background-image: url(splash.jpg) no-repeat;
+  background-size: 100%;
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 57px 57px;
+}
