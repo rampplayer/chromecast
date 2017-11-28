@@ -18,8 +18,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242867', end
 }
 
 .splash {
-  background-image: url(https://raw.githubusercontent.com/rampplayer/chromecast/master/splash.jpg) no-repeat;
-  background-size: 100%;
+  background-image: url(https://raw.githubusercontent.com/rampplayer/chromecast/master/splash.jpg);
 }
 
 .watermark {
